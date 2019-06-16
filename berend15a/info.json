@@ -1,0 +1,16 @@
+{
+    "abstract": "We revisit, from a statistical learning perspective, the classical decision-theoretic problem of weighted expert voting. In particular, we examine the consistency (both asymptotic and finitary) of the optimal Naive Bayes weighted majority and related rules. In the case of known expert competence levels, we give sharp error estimates for the optimal rule. We derive optimality results for our estimates and also establish some structural characterizations. When the competence levels are unknown, they must be empirically estimated. We provide frequentist and Bayesian analyses for this situation. Some of our proof techniques are non-standard and may be of independent interest. Several challenging open problems are posed, and experimental results are provided to illustrate the theory.",
+    "authors": [
+        "Daniel Berend",
+        "Aryeh Kontorovich"
+    ],
+    "id": "berend15a",
+    "issue": 43,
+    "pages": [
+        1519,
+        1545
+    ],
+    "title": "A Finite Sample Analysis of the Naive Bayes Classifier",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "This paper investigates graph clustering under the planted partition model in the presence of <i>small clusters</i>. Traditional results dictate that for an algorithm to provably correctly recover the underlying clusters, all clusters must be sufficiently large---in particular, the cluster sizes need to be $\\tilde{\\Omega}(\\sqrt{n})$, where $n$ is the number of nodes of the graph. We show that this is not really a restriction: by a refined analysis of a convex-optimization-based recovery approach, we prove that small clusters, under certain mild assumptions, do not hinder recovery of large ones. Based on this result, we further devise an iterative algorithm to provably recover <i>almost all clusters</i> via a \u00e2\u0080\u009cpeeling strategy\u00e2\u0080\u009d: we recover large clusters first, leading to a reduced problem, and repeat this procedure. These results are extended to the partial observation setting, in which only a (chosen) part of the graph is observed. The peeling strategy gives rise to an <i>active</i> learning algorithm, in which edges adjacent to smaller clusters are queried more often after large clusters are learned (and removed). We expect that the idea of iterative peeling---that is, sequentially identifying a subset of the clusters and reducing the problem to a smaller one---is useful more broadly beyond the specific implementations (based on convex optimization) used in this paper.",
+    "authors": [
+        "Nir Ailon",
+        "Yudong Chen",
+        "Huan Xu"
+    ],
+    "id": "ailon15a",
+    "issue": 13,
+    "pages": [
+        455,
+        490
+    ],
+    "title": "Iterative and Active Graph Clustering Using Trace Norm Minimization Without Cluster Size Constraints",
+    "volume": 16,
+    "year": 2015
+}

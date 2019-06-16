@@ -1,0 +1,16 @@
+{
+    "abstract": "SAMOA (Scalable Advanced Massive Online Analysis) is a platform for mining big data streams. It provides a collection of distributed streaming algorithms for the most common data mining and machine learning tasks such as classification, clustering, and regression, as well as programming abstractions to develop new algorithms. It features a pluggable architecture that allows it to run on several distributed stream processing engines such as Storm, S4, and Samza. SAMOA is written in Java, is open source, and is available at <a href=\"http://samoa- project.net \">samoa-project.net</a> under the Apache Software License version 2.0.",
+    "authors": [
+        "Gianmarco De Francisci Morales",
+        "Albert Bifet"
+    ],
+    "id": "morales15a",
+    "issue": 4,
+    "pages": [
+        149,
+        153
+    ],
+    "title": "SAMOA: Scalable Advanced Massive Online Analysis",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "With the increasing size of today's data sets, finding the right parameter configuration in model selection via cross-validation can be an extremely time-consuming task. In this paper we propose an improved cross-validation procedure which uses nonparametric testing coupled with sequential analysis to determine the best parameter set on linearly increasing subsets of the data. By eliminating underperforming candidates quickly and keeping promising candidates as long as possible, the method speeds up the computation while preserving the power of the full cross-validation. Theoretical considerations underline the statistical power of our procedure. The experimental evaluation shows that our method reduces the computation time by a factor of up to 120 compared to a full cross-validation with a negligible impact on the accuracy.",
+    "authors": [
+        "Tammo Krueger",
+        "Danny Panknin",
+        "Mikio Braun"
+    ],
+    "id": "krueger15a",
+    "issue": 32,
+    "pages": [
+        1103,
+        1155
+    ],
+    "title": "Fast Cross-Validation via Sequential Testing",
+    "volume": 16,
+    "year": 2015
+}

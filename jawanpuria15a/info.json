@@ -1,0 +1,17 @@
+{
+    "abstract": "This paper generalizes the framework of Hierarchical Kernel Learning (HKL) and illustrates its utility in the domain of rule learning. HKL involves Multiple Kernel Learning over a set of given base kernels assumed to be embedded on a directed acyclic graph. This paper proposes a two-fold generalization of HKL: the first is employing a generic $\\ell_1/\\ell_\\rho$ block-norm regularizer ($\\rho\\in(1,2]$) that alleviates a key limitation of the HKL formulation. The second is a generalization to the case of multi-class, multi-label and more generally, multi-task applications. The main technical contribution of this work is the derivation of a highly specialized partial dual of the proposed generalized HKL formulation and an efficient mirror descent based active set algorithm for solving it. Importantly, the generic regularizer enables the proposed formulation to be employed in the Rule Ensemble Learning (REL) where the goal is to construct an ensemble of conjunctive propositional rules. Experiments on benchmark REL data sets illustrate the efficacy of the proposed generalizations.",
+    "authors": [
+        "Pratik Jawanpuria",
+        "Jagarlapudi Saketha Nath",
+        "Ganesh Ramakrishnan"
+    ],
+    "id": "jawanpuria15a",
+    "issue": 19,
+    "pages": [
+        617,
+        652
+    ],
+    "title": "Generalized Hierarchical Kernel Learning",
+    "volume": 16,
+    "year": 2015
+}

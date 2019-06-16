@@ -1,0 +1,16 @@
+{
+    "abstract": "Similarity measures for comparing clusterings is an important component, e.g., of evaluating clustering algorithms, for consensus clustering, and for clustering stability assessment. These measures have been studied for over 40 years in the domain of exclusive hard clusterings (exhaustive and mutually exclusive object sets). In the past years, the literature has proposed measures to handle more general clusterings (e.g., fuzzy/probabilistic clusterings). This paper provides an overview of these new measures and discusses their drawbacks. We ultimately develop a corrected-for-chance measure (13AGRI) capable of comparing exclusive hard, fuzzy/probabilistic, non- exclusive hard, and possibilistic clusterings. We prove that 13AGRI and the adjusted Rand index (ARI, by Hubert and Arabie) are equivalent in the exclusive hard domain. The reported experiments show that only 13AGRI could provide both a fine- grained evaluation across clusterings with different numbers of clusters and a constant evaluation between random clusterings, showing all the four desirable properties considered here. We identified a high correlation between 13AGRI applied to fuzzy clusterings and ARI applied to hard exclusive clusterings over 14 real data sets from the UCI repository, which corroborates the validity of 13AGRI fuzzy clustering evaluation. 13AGRI also showed good results as a clustering stability statistic for solutions produced by the expectation maximization algorithm for Gaussian mixture. Implementation and supplementary figures can be found at <a href=\"http://sn.im/25a9h8u\">sn.im/25a9h8u</a>.",
+    "authors": [
+        "Danilo Horta",
+        "Ricardo J.G.B. Campello"
+    ],
+    "id": "horta15a",
+    "issue": 92,
+    "pages": [
+        2949,
+        2997
+    ],
+    "title": "Comparing Hard and Overlapping Clusterings",
+    "volume": 16,
+    "year": 2015
+}

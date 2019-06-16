@@ -1,0 +1,16 @@
+{
+    "abstract": "We provide novel theoretical results regarding local optima of regularized $M$-estimators, allowing for nonconvexity in both loss and penalty functions. Under restricted strong convexity on the loss and suitable regularity conditions on the penalty, we prove that <i>any stationary point</i> of the composite objective function will lie within statistical precision of the underlying parameter vector. Our theory covers many nonconvex objective functions of interest, including the corrected Lasso for errors-in-variables linear models; regression for generalized linear models with nonconvex penalties such as SCAD, MCP, and capped-$\\ell_1$; and high-dimensional graphical model estimation. We quantify statistical accuracy by providing bounds on the $\\ell_1$-, $\\ell_2$-, and prediction error between stationary points and the population-level optimum. We also propose a simple modification of composite gradient descent that may be used to obtain a near-global optimum within statistical precision $\\epsilon_{\\text{stat}}$ in $\\log(1/\\epsilon_{\\text{stat}})$ steps, which is the fastest possible rate of any first-order method. We provide simulation studies illustrating the sharpness of our theoretical results.",
+    "authors": [
+        "Po-Ling Loh",
+        "Martin J. Wainwright"
+    ],
+    "id": "loh15a",
+    "issue": 18,
+    "pages": [
+        559,
+        616
+    ],
+    "title": "Regularized M-estimators with Nonconvexity: Statistical and Algorithmic Theory for Local Optima",
+    "volume": 16,
+    "year": 2015
+}

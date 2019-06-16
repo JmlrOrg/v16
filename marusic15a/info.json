@@ -1,0 +1,16 @@
+{
+    "abstract": " <p>We consider the query and computational complexity of learning multiplicity tree automata in Angluin's exact learning model. In this model, there is an oracle, called the Teacher, that can answer membership and equivalence queries posed by the Learner. Motivated by this feature, we first characterise the complexity of the equivalence problem for multiplicity tree automata, showing that it is logspace equivalent to polynomial identity testing.</p> <p>We then move to query complexity, deriving lower bounds on the number of queries needed to learn multiplicity tree automata over both fixed and arbitrary fields. In the latter case, the bound is linear in the size of the target automaton. The best known upper bound on the query complexity over arbitrary fields derives from an algorithm of Habrard and Oncina (2006), in which the number of queries is proportional to the size of the target automaton and the size of a largest counterexample, represented as a tree, that is returned by the Teacher. However, a smallest counterexample tree may already be exponential in the size of the target automaton. Thus the above algorithm has query complexity exponentially larger than our lower bound, and does not run in time polynomial in the size of the target automaton. We give a new learning algorithm for multiplicity tree automata in which counterexamples to equivalence queries are represented as DAGs. The query complexity of this algorithm is quadratic in the target automaton size and linear in the size of a largest counterexample. In particular, if the Teacher always returns DAG counterexamples of minimal size then the query complexity is quadratic in the target automaton size---almost matching the lower bound, and improving the best previously-known algorithm by an exponential factor.</p>",
+    "authors": [
+        "Ines Marusic",
+        "James Worrell"
+    ],
+    "id": "marusic15a",
+    "issue": 75,
+    "pages": [
+        2465,
+        2500
+    ],
+    "title": "Complexity of Equivalence and Learning for Multiplicity Tree Automata",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "We study the problem of predicting online the labeling of a graph. We consider a novel setting for this problem in which, in addition to observing vertices and labels on the graph, we also observe a sequence of just vertices on a second graph. A latent labeling of the second graph selects one of $K$ labelings to be active on the first graph. We propose a polynomial time algorithm for online prediction in this setting and derive a mistake bound for the algorithm. The bound is controlled by the geometric cut of the observed and latent labelings, as well as the resistance diameters of the graphs. When specialized to multitask prediction and online switching problems the bound gives new and sharper results under certain conditions.",
+    "authors": [
+        "Mark Herbster",
+        "Stephen Pasteris",
+        "Massimiliano Pontil"
+    ],
+    "id": "herbster15a",
+    "issue": 59,
+    "pages": [
+        2003,
+        2022
+    ],
+    "title": "Predicting a Switching Sequence of Graph Labelings",
+    "volume": 16,
+    "year": 2015
+}

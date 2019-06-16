@@ -1,0 +1,16 @@
+{
+    "abstract": "A new method is proposed for estimating derivatives of a nonparametric regression function. By applying Taylor expansion technique to a derived symmetric difference sequence, we obtain a sequence of approximate linear regression representation in which the derivative is just the intercept term. Using locally weighted least squares, we estimate the derivative in the linear regression model. The estimator has less bias in both valleys and peaks of the true derivative function. For the special case of a domain with equispaced design points, the asymptotic bias and variance are derived; consistency and asymptotic normality are established. In simulations our estimators have less bias and mean square error than its main competitors, especially second order derivative estimator.",
+    "authors": [
+        "WenWu Wang",
+        "Lu Lin"
+    ],
+    "id": "wang15b",
+    "issue": 80,
+    "pages": [
+        2617,
+        2641
+    ],
+    "title": "Derivative Estimation Based on Difference Sequence via Locally Weighted Least Squares Regression",
+    "volume": 16,
+    "year": 2015
+}

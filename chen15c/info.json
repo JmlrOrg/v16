@@ -1,0 +1,18 @@
+{
+    "abstract": "Stacked denoising autoencoders (SDAs) have been successfully used to learn new representations for domain adaptation. They have attained record accuracy on standard benchmark tasks of sentiment analysis across different text domains. SDAs learn robust data representations by reconstruction, recovering original features from data that are artificially corrupted with noise. In this paper, we propose <i>marginalized Stacked Linear Denoising Autoencoder</i> (mSLDA) that addresses two crucial limitations of SDAs: high computational cost and lack of scalability to high-dimensional features. In contrast to SDAs, our approach of mSLDA marginalizes noise and thus does not require stochastic gradient descent or other optimization algorithms to learn parameters --- in fact, the linear formulation gives rise to a closed-form solution. Consequently, mSLDA, which can be implemented in only 20 lines of MATLAB, is about <i>two orders of magnitude</i> faster than a corresponding SDA. Furthermore, the representations learnt by mSLDA are as effective as the traditional SDAs, attaining almost identical accuracies in benchmark tasks.",
+    "authors": [
+        "Minmin Chen",
+        "Kilian Q. Weinberger",
+        "Zhixiang (Eddie) Xu",
+        "Fei Sha"
+    ],
+    "id": "chen15c",
+    "issue": 115,
+    "pages": [
+        3849,
+        3875
+    ],
+    "title": "Marginalizing Stacked Linear Denoising Autoencoders",
+    "volume": 16,
+    "year": 2015
+}

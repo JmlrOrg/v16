@@ -1,0 +1,18 @@
+{
+    "abstract": "We consider the problem of stratified sampling for Monte Carlo integration of a random variable. We model this problem in a $K$-armed bandit, where the arms represent the $K$ strata. The goal is to estimate the integral mean, that is a weighted average of the mean values of the arms. The learner is allowed to sample the variable $n$ times, but it can decide on-line which stratum to sample next. We propose an UCB-type strategy that samples the arms according to an upper bound on their estimated standard deviations. We compare its performance to an ideal sample allocation that knows the standard deviations of the arms. For sub-Gaussian arm distributions, we provide bounds on the total regret: a distribution-dependent bound of order $\\text{poly}(\\lambda_{\\min}^{-1})\\tilde{O}(n^{-3/2})$ (The notation $a_n=\\text{poly}(b_n)$ means that there exist $C$,$\\alpha&gt;0$ such that $a_n\\le Cb_n^\\alpha$ for $n$ large enough. Moreover, $a_n=\\tilde{O}(b_n)$ means that $a_n/b_n=\\text{poly}(\\log n)$ for $n$ large enough.) that depends on a measure of the disparity $\\lambda_{\\min}$ of the per stratum variances and a distribution-free bound $\\text{poly}(K)\\tilde{O}(n^{-7/6})$ that does not. We give similar, but somewhat sharper bounds on a proxy of the regret. The problem- independent bound for this proxy matches its recent minimax lower bound in terms of $n$ up to a $\\log n$ factor.",
+    "authors": [
+        "Alex",
+        "ra Carpentier",
+        "Remi Munos",
+        "Andr{{\\'a}}s Antos"
+    ],
+    "id": "carpentier15a",
+    "issue": 67,
+    "pages": [
+        2231,
+        2271
+    ],
+    "title": "Adaptive Strategy for Stratified Monte Carlo Sampling",
+    "volume": 16,
+    "year": 2015
+}

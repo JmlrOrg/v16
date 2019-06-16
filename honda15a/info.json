@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper we consider a stochastic multiarmed bandit problem. It is known in this problem that Deterministic Minimum Empirical Divergence (DMED) policy achieves the asymptotic theoretical bound for the model where each reward distribution is supported in a known bounded interval, say $[0,1]$. However, the regret bound of DMED is described in an asymptotic form and the performance in finite time has been unknown. We modify this policy and derive a finite-time regret bound for the new policy, Indexed Minimum Empirical Divergence (IMED), by refining large deviation probabilities to a simple non-asymptotic form. Further, the refined analysis reveals that the finite-time regret bound is valid even in the case that the reward is not bounded from below. Therefore, our finite-time result applies to the case that the minimum reward (that is, the maximum loss) is unknown or unbounded. We also present some simulation results which shows that IMED much improves DMED and performs competitively to other state-of-the-art policies.",
+    "authors": [
+        "Junya Honda",
+        "Akimichi Takemura"
+    ],
+    "id": "honda15a",
+    "issue": 112,
+    "pages": [
+        3721,
+        3756
+    ],
+    "title": "Non-Asymptotic Analysis of a New Bandit Algorithm for Semi-Bounded Rewards",
+    "volume": 16,
+    "year": 2015
+}

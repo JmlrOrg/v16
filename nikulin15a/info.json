@@ -1,0 +1,15 @@
+{
+    "abstract": "In this paper we formulate in general terms an approach to prove strong consistency of the Empirical Risk Minimisation inductive principle applied to the prototype or distance based clustering. This approach was motivated by the Divisive Information- Theoretic Feature Clustering model in probabilistic space with Kullback-Leibler divergence, which may be regarded as a special case within the Clustering Minimisation framework.",
+    "authors": [
+        "Vladimir Nikulin"
+    ],
+    "id": "nikulin15a",
+    "issue": 24,
+    "pages": [
+        775,
+        785
+    ],
+    "title": "Strong Consistency of the Prototype Based Clustering in Probabilistic Space",
+    "volume": 16,
+    "year": 2015
+}

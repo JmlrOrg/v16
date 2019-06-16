@@ -1,0 +1,16 @@
+{
+    "abstract": "An estimate of the second moment of the regression function is introduced. Its asymptotic normality is proved such that the asymptotic variance depends neither on the dimension of the observation vector, nor on the smoothness properties of the regression function. The asymptotic variance is given explicitly.",
+    "authors": [
+        "L{{\\'a}}szl{{\\'o}} Gy{{\\\"o}}rfi",
+        "Harro Walk"
+    ],
+    "id": "gyorfi15a",
+    "issue": 54,
+    "pages": [
+        1863,
+        1877
+    ],
+    "title": "On the Asymptotic Normality of an Estimate of a Regression Functional",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "We introduce pyGPs, an object-oriented implementation of Gaussian processes (<i>gp</i>s) for machine learning. The library provides a wide range of functionalities reaching from simple <i>gp</i> specification via mean and covariance and <i>gp</i> inference to more complex implementations of hyperparameter optimization, sparse approximations, and graph based learning. Using Python we focus on usability for both \"users\" and \"researchers\". Our main goal is to offer a  <i>user- friendly and flexible</i> implementation of <i>gp</i>s for machine learning.",
+    "authors": [
+        "Marion Neumann",
+        "Shan Huang",
+        "Daniel E. Marthaler",
+        "Kristian Kersting"
+    ],
+    "id": "neumann15a",
+    "issue": 79,
+    "pages": [
+        2611,
+        2616
+    ],
+    "title": "pyGPs -- A Python Library for Gaussian Process Regression and Classification",
+    "volume": 16,
+    "year": 2015
+}

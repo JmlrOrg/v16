@@ -1,0 +1,16 @@
+{
+    "abstract": "Estimation of inverse covariance matrices, known as precision matrices, is important in various areas of statistical analysis. In this article, we consider estimation of multiple precision matrices sharing some common structures. In this setting, estimating each precision matrix separately can be suboptimal as it ignores potential common structures. This article proposes a new approach to parameterize each precision matrix as a sum of common and unique components and estimate multiple precision matrices in a constrained $l_1$ minimization framework. We establish both estimation and selection consistency of the proposed estimator in the high dimensional setting. The proposed estimator achieves a faster convergence rate for the common structure in certain cases. Our numerical examples demonstrate that our new estimator can perform better than several existing methods in terms of the entropy loss and Frobenius loss. An application to a glioblastoma cancer data set reveals some interesting gene networks across multiple cancer subtypes.",
+    "authors": [
+        "Wonyul Lee",
+        "Yufeng Liu"
+    ],
+    "id": "lee15a",
+    "issue": 30,
+    "pages": [
+        1035,
+        1062
+    ],
+    "title": "Joint Estimation of Multiple Precision Matrices with Common Structures",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "We present a new framework for multimodal gesture recognition that is based on a multiple hypotheses rescoring fusion scheme. We specifically deal with a demanding Kinect-based multimodal data set, introduced in a recent gesture recognition challenge (ChaLearn 2013), where multiple subjects freely perform multimodal gestures. We employ multiple modalities, that is, visual cues, such as skeleton data, color and depth images, as well as audio, and we extract feature descriptors of the hands' movement, handshape, and audio spectral properties. Using a common hidden Markov model framework we build single-stream gesture models based on which we can generate multiple single stream-based hypotheses for an unknown gesture sequence. By multimodally rescoring these hypotheses via constrained decoding and a weighted combination scheme, we end up with a multimodally-selected best hypothesis. This is further refined by means of parallel fusion of the monomodal gesture models applied at a segmental level. In this setup, accurate gesture modeling is proven to be critical and is facilitated by an activity detection system that is also presented. The overall approach achieves 93.3% gesture recognition accuracy in the ChaLearn Kinect-based multimodal data set, significantly outperforming all recently published approaches on the same challenging multimodal gesture recognition task, providing a relative error rate reduction of at least 47.6%.",
+    "authors": [
+        "Vassilis Pitsikalis",
+        "Athanasios Katsamanis",
+        "Stavros Theodorakis",
+        "Petros Maragos"
+    ],
+    "id": "pitsikalis15a",
+    "issue": 8,
+    "pages": [
+        255,
+        284
+    ],
+    "title": "Multimodal Gesture Recognition via Multiple Hypotheses Rescoring",
+    "volume": 16,
+    "year": 2015
+}

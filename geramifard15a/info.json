@@ -1,0 +1,19 @@
+{
+    "abstract": "RLPy is an object-oriented reinforcement learning software package with a focus on value-function-based methods using linear function approximation and discrete actions. The framework was designed for both educational and research purposes. It provides a rich library of fine-grained, easily exchangeable components for learning agents (e.g., policies or representations of value functions), facilitating recently increased specialization in reinforcement learning. RLPy is written in Python to allow fast prototyping, but is also suitable for large-scale experiments through its built-in support for optimized numerical libraries and parallelization. Code profiling, domain visualizations, and data analysis are integrated in a self-contained package available under the Modified BSD License at <a href=\"http://github.com/rlpy/rlpy\">github.com/rlpy/rlpy</a>. All of these properties allow users to compare various reinforcement learning algorithms with little effort.",
+    "authors": [
+        "Alborz Geramifard",
+        "Christoph Dann",
+        "Robert H. Klein",
+        "William Dabney",
+        "Jonathan P. How"
+    ],
+    "id": "geramifard15a",
+    "issue": 45,
+    "pages": [
+        1573,
+        1578
+    ],
+    "title": "RLPy: A Value-Function-Based Reinforcement Learning Framework for Education and Research",
+    "volume": 16,
+    "year": 2015
+}

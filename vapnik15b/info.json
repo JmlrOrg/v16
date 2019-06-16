@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper describes a new paradigm of machine learning, in which Intelligent Teacher is involved. During training stage, Intelligent Teacher provides Student with information that contains, along with classification of each example, additional privileged information (for example, explanation) of this example. The paper describes two mechanisms that can be used for significantly accelerating the speed of Student's learning using privileged information: (1) correction of Student's concepts of similarity between examples, and (2) direct Teacher-Student knowledge transfer.",
+    "authors": [
+        "Vladimir Vapnik",
+        "Rauf Izmailov"
+    ],
+    "id": "vapnik15b",
+    "issue": 60,
+    "pages": [
+        2023,
+        2049
+    ],
+    "title": "Learning Using Privileged Information: Similarity Control and Knowledge Transfer",
+    "volume": 16,
+    "year": 2015
+}

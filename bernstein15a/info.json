@@ -1,0 +1,16 @@
+{
+    "abstract": "Blackwell's theory of approachability provides fundamental results for repeated games with vector-valued payoffs, which have been usefully applied in the theory of learning in games, and in devising online learning algorithms in the adversarial setup. A target set $S$ is approachable by a player (the agent) in such a game if he can ensure that the average payoff vector converges to $S$, no matter what the opponent does. Blackwell provided two equivalent conditions for a convex set to be approachable. Standard approachability algorithms rely on the primal condition, which is a geometric separation condition, and essentially require to compute at each stage a projection direction from a certain point to $S$. Here we introduce an approachability algorithm that relies on Blackwell's dual condition, which requires the agent to have a feasible  response to each mixed action of the opponent, namely a mixed action such that the expected payoff vector belongs to $S$. Thus, rather than projections, the proposed algorithm relies on computing the response to a certain action of the opponent at each stage. We demonstrate the utility of the proposed approach by applying it to certain generalizations of the classical regret minimization problem, which incorporate side constraints, reward-to-cost criteria, and so-called global cost functions. In these extensions, computation of the projection is generally complex while the response is readily obtainable.",
+    "authors": [
+        "Andrey Bernstein",
+        "Nahum Shimkin"
+    ],
+    "id": "bernstein15a",
+    "issue": 23,
+    "pages": [
+        747,
+        773
+    ],
+    "title": "Response-Based Approachability with Applications to Generalized No-Regret Problems",
+    "volume": 16,
+    "year": 2015
+}

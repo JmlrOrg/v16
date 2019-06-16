@@ -1,0 +1,16 @@
+{
+    "abstract": "This work establishes distribution-free upper and lower bounds on the minimax label complexity of active learning with general hypothesis classes, under various noise models. The results reveal a number of surprising facts. In particular, under the noise model of Tsybakov (2004), the minimax label complexity of active learning with a VC class is always asymptotically smaller than that of passive learning, and is typically significantly smaller than the best previously-published upper bounds in the active learning literature. In high-noise regimes, it turns out that all active learning problems of a given VC dimension have roughly the same minimax label complexity, which contrasts with well-known results for bounded noise. In low-noise regimes, we find that the label complexity is well-characterized by a simple combinatorial complexity measure we call the <i>star number</i>. Interestingly, we find that almost all of the complexity measures previously explored in the active learning literature have worst-case values exactly equal to the star number. We also propose new active learning strategies that nearly achieve these minimax label complexities.",
+    "authors": [
+        "Steve Hanneke",
+        "Liu Yang"
+    ],
+    "id": "hanneke15a",
+    "issue": 108,
+    "pages": [
+        3487,
+        3602
+    ],
+    "title": "Minimax Analysis of Active Learning",
+    "volume": 16,
+    "year": 2015
+}

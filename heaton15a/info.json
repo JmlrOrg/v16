@@ -1,0 +1,15 @@
+{
+    "abstract": "This paper introduces the Encog library for Java and C#, a scalable, adaptable, multi-platform machine learning framework that was first released in 2008. Encog allows a variety of machine learning models to be applied to data sets using regression, classification, and clustering. Various supported machine learning models can be used interchangeably with minimal recoding. Encog uses efficient multithreaded code to reduce training time by exploiting modern multicore processors. The current version of Encog can be downloaded from <a href=\"http://www.encog.org\">www.encog.org</a>.",
+    "authors": [
+        "Jeff Heaton"
+    ],
+    "id": "heaton15a",
+    "issue": 35,
+    "pages": [
+        1243,
+        1247
+    ],
+    "title": "Encog: Library of Interchangeable Machine Learning Models for Java and C#",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "Having shown its good performance in many applications, variational Bayesian (VB) learning is known to be one of the best tractable approximations to Bayesian learning. However, its performance was not well understood theoretically. In this paper, we clarify the behavior of VB learning in probabilistic PCA (or fully-observed matrix factorization). More specifically, we establish a necessary and sufficient condition for perfect dimensionality (or rank) recovery in the large-scale limit when the matrix size goes to infinity. Our result theoretically guarantees the performance of VB-PCA. At the same time, it also reveals the conservative nature of VB learning--- it offers a low false positive rate at the expense of low sensitivity. By contrasting with an alternative dimensionality selection method, we characterize VB learning in PCA. In our analysis, we obtain bounds of the noise variance estimator, and a new and simple analytic-form solution for the other parameters, which themselves are useful for implementation of VB-PCA.",
+    "authors": [
+        "Shinichi Nakajima",
+        "Ryota Tomioka",
+        "Masashi Sugiyama",
+        "S. Derin Babacan"
+    ],
+    "id": "nakajima15a",
+    "issue": 113,
+    "pages": [
+        3757,
+        3811
+    ],
+    "title": "Condition for Perfect Dimensionality Recovery by Variational Bayesian PCA",
+    "volume": 16,
+    "year": 2015
+}

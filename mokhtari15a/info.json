@@ -1,0 +1,17 @@
+{
+    "abstract": "Global convergence of an online (stochastic) limited memory version of the Broyden-Fletcher-Goldfarb-Shanno (BFGS) quasi- Newton method for solving optimization problems with stochastic objectives that arise in large scale machine learning is established. Lower and upper bounds on the Hessian eigenvalues of the sample functions are shown to suffice to guarantee that the curvature approximation matrices have bounded determinants and traces, which, in turn, permits establishing convergence to optimal arguments with probability 1. Experimental evaluation on a search engine advertising problem showcase reductions in convergence time relative to stochastic gradient descent algorithms.",
+    "authors": [
+        "Aryan Mokhtari",
+        "Alej",
+        "ro Ribeiro"
+    ],
+    "id": "mokhtari15a",
+    "issue": 97,
+    "pages": [
+        3151,
+        3181
+    ],
+    "title": "Global Convergence of Online Limited Memory BFGS",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "We develop a penalized likelihood estimation framework to learn the structure of Gaussian Bayesian networks from observational data. In contrast to recent methods which accelerate the learning problem by restricting the search space, our main contribution is a fast algorithm for score-based structure learning which does not restrict the search space in any way and works on high-dimensional data sets with thousands of variables. Our use of concave regularization, as opposed to the more popular $\\ell_0$ (e.g. BIC) penalty, is new. Moreover, we provide theoretical guarantees which generalize existing asymptotic results when the underlying distribution is Gaussian. Most notably, our framework does not require the existence of a so-called faithful DAG representation, and as a result, the theory must handle the inherent nonidentifiability of the estimation problem in a novel way. Finally, as a matter of independent interest, we provide a comprehensive comparison of our approach to several standard structure learning methods using open-source packages developed for the R language. Based on these experiments, we show that our algorithm obtains higher sensitivity with comparable false discovery rates for high- dimensional data and scales efficiently as the number of nodes increases. In particular, the total runtime for our method to generate a solution path of 20 estimates for DAGs with 8000 nodes is around one hour.",
+    "authors": [
+        "Bryon Aragam",
+        "Qing Zhou"
+    ],
+    "id": "aragam15a",
+    "issue": 68,
+    "pages": [
+        2273,
+        2328
+    ],
+    "title": "Concave Penalized Estimation of Sparse Gaussian Bayesian Networks",
+    "volume": 16,
+    "year": 2015
+}

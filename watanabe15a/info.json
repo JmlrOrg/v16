@@ -1,0 +1,16 @@
+{
+    "abstract": "The normalized maximum likelihood distribution achieves minimax coding (log-loss) regret given a fixed sample size, or horizon, $n$. It generally requires that $n$ be known in advance. Furthermore, extracting the sequential predictions from the normalized maximum likelihood distribution is computationally infeasible for most statistical models. Several computationally feasible alternative strategies have been devised. We characterize the achievability of asymptotic minimaxity by horizon-dependent and horizon-independent strategies. We prove that no horizon-independent strategy can be asymptotically minimax in the multinomial case. A weaker result is given in the general case subject to a condition on the horizon-dependence of the normalized maximum likelihood. Motivated by these negative results, we demonstrate that an easily implementable Bayes mixture based on a conjugate Dirichlet prior with a simple dependency on $n$ achieves asymptotic minimaxity for all sequences, simplifying earlier similar proposals. Our numerical experiments for the Bernoulli model demonstrate improved finite- sample performance by a number of novel horizon-dependent and horizon-independent algorithms.",
+    "authors": [
+        "Kazuho Watanabe",
+        "Teemu Roos"
+    ],
+    "id": "watanabe15a",
+    "issue": 70,
+    "pages": [
+        2357,
+        2375
+    ],
+    "title": "Achievability of Asymptotic Minimax Regret by Horizon-Dependent and Horizon-Independent Strategies",
+    "volume": 16,
+    "year": 2015
+}

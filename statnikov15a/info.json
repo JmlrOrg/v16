@@ -1,0 +1,22 @@
+{
+    "abstract": "Discovery of causal relations from data is a fundamental objective of several scientific disciplines. Most causal discovery algorithms that use observational data can infer causality only up to a statistical equivalency class, thus leaving many causal relations undetermined. In general, complete identification of causal relations requires experimentation to augment discoveries from observational data. This has led to the recent development of several methods for active learning of causal networks that utilize both observational and experimental data in order to discover causal networks. In this work, we focus on the problem of discovering local causal pathways that contain only direct causes and direct effects of the target variable of interest and propose new discovery methods that aim to minimize the number of required experiments, relax common sufficient discovery assumptions in order to increase discovery accuracy, and scale to high-dimensional data with thousands of variables. We conduct a comprehensive evaluation of new and existing methods with data of dimensionality up to 1,000,000 variables. We use both artificially simulated networks and <i>in-silico</i> gene transcriptional networks that model the characteristics of real gene expression data.",
+    "authors": [
+        "Alex",
+        "er Statnikov",
+        "Sisi Ma",
+        "Mikael Henaff",
+        "Nikita Lytkin",
+        "Efstratios Efstathiadis",
+        "Eric R. Peskin",
+        "Constantin F. Aliferis"
+    ],
+    "id": "statnikov15a",
+    "issue": 99,
+    "pages": [
+        3219,
+        3267
+    ],
+    "title": "Ultra-Scalable and Efficient Methods for Hybrid Observational and Experimental Local Causal Pathway Discovery",
+    "volume": 16,
+    "year": 2015
+}

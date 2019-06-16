@@ -1,0 +1,17 @@
+{
+    "abstract": "The problem of estimating high-dimensional network models arises naturally in the analysis of many biological and socio-economic systems. In this work, we aim to learn a network structure from temporal panel data, employing the framework of Granger causal models under the assumptions of sparsity of its edges and inherent grouping structure among its nodes. To that end, we introduce a group lasso regression regularization framework, and also examine a thresholded variant to address the issue of group misspecification. Further, the norm consistency and variable selection consistency of the estimates are established, the latter under the novel concept of direction consistency. The performance of the proposed methodology is assessed through an extensive set of simulation studies and comparisons with existing techniques. The study is illustrated on two motivating examples coming from functional genomics and financial econometrics.",
+    "authors": [
+        "Sumanta Basu",
+        "Ali Shojaie",
+        "George Michailidis"
+    ],
+    "id": "basu15a",
+    "issue": 12,
+    "pages": [
+        417,
+        453
+    ],
+    "title": "Network Granger Causality with Inherent Grouping Structure",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "We propose an algorithm for two-class classification problems when the training data are imbalanced. This means the number of training instances in one of the classes is so low that the conventional classification algorithms become ineffective in detecting the minority class. We present a modification of the kernel Fisher discriminant analysis such that the imbalanced nature of the problem is explicitly addressed in the new algorithm formulation. The new algorithm exploits the properties of the existing minority points to learn the effects of other minority data points, had they actually existed. The algorithm proceeds iteratively by employing the learned properties and conditional sampling in such a way that it generates sufficient artificial data points for the minority set, thus enhancing the detection probability of the minority class. Implementing the proposed method on a number of simulated and real data sets, we show that our proposed method performs competitively compared to a set of alternative state-of-the-art imbalanced classification algorithms.",
+    "authors": [
+        "Arash Pourhabib",
+        "Bani K. Mallick",
+        "Yu Ding"
+    ],
+    "id": "pourhabib15a",
+    "issue": 82,
+    "pages": [
+        2695,
+        2724
+    ],
+    "title": "Absent Data Generating Classifier for Imbalanced Class Sizes",
+    "volume": 16,
+    "year": 2015
+}

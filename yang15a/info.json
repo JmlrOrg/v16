@@ -1,0 +1,19 @@
+{
+    "abstract": "Undirected graphical models, or Markov networks, are a popular class of statistical models, used in a wide variety of applications. Popular instances of this class include Gaussian graphical models and Ising models. In many settings, however, it might not be clear which subclass of graphical models to use, particularly for non-Gaussian and non-categorical data. In this paper, we consider a general sub-class of graphical models where the node-wise conditional distributions arise from exponential families. This allows us to derive <i>multivariate</i> graphical model distributions from <i>univariate</i> exponential family distributions, such as the Poisson, negative binomial, and exponential distributions. Our key contributions include a class of M-estimators to fit these graphical model distributions; and rigorous statistical analysis showing that these M-estimators recover the true graphical model structure exactly, with high probability. We provide examples of genomic and proteomic networks learned via instances of our class of graphical models derived from Poisson and exponential distributions.",
+    "authors": [
+        "Eunho Yang",
+        "Pradeep Ravikumar",
+        "Genevera I. Allen",
+        "Zh",
+        "ong Liu"
+    ],
+    "id": "yang15a",
+    "issue": 114,
+    "pages": [
+        3813,
+        3847
+    ],
+    "title": "Graphical Models via Univariate Exponential Family Distributions",
+    "volume": 16,
+    "year": 2015
+}

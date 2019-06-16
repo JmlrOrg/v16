@@ -1,0 +1,17 @@
+{
+    "abstract": " <p>When learning a directed acyclic graph (DAG) model via observational data, one generally cannot identify the underlying DAG, but can potentially obtain a Markov equivalence class. The size (the number of DAGs) of a Markov equivalence class is crucial to infer causal effects or to learn the exact causal DAG via further interventions. Given a set of Markov equivalence classes, the distribution of their sizes is a key consideration in developing learning methods. However, counting the size of an equivalence class with many vertices is usually computationally infeasible, and the existing literature reports the size distributions only for equivalence classes with ten or fewer vertices.</p> <p>In this paper, we develop a method to compute the size of a Markov equivalence class. We first show that there are five types of Markov equivalence classes whose sizes can be formulated as five functions of the number of vertices respectively. Then we introduce a new concept of a rooted sub- class. The graph representations of rooted subclasses of a Markov equivalence class are used to partition this class recursively until the sizes of all rooted sub-classes can be computed via the five functions. The proposed size counting is efficient for Markov equivalence classes of sparse DAGs with hundreds of vertices. Finally, we explore the size and edge distributions of Markov equivalence classes and find experimentally that, in general, (1) most Markov equivalence classes are half completed and their average sizes are small, and (2) the sizes of sparse classes grow approximately exponentially with the numbers of vertices.</p>",
+    "authors": [
+        "Yangbo He",
+        "Jinzhu Jia",
+        "Bin Yu"
+    ],
+    "id": "he15a",
+    "issue": 78,
+    "pages": [
+        2589,
+        2609
+    ],
+    "title": "Counting and Exploring Sizes of Markov Equivalence Classes of Directed Acyclic Graphs",
+    "volume": 16,
+    "year": 2015
+}

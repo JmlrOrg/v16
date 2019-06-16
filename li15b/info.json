@@ -1,0 +1,38 @@
+{
+    "abstract": "This paper describes the winning solution of team National Taiwan University for track 1 of KDD Cup 2013. The track 1 in KDD Cup 2013 considers the paper-author identification problem, which is to identify whether a paper is truly written by an author. First, we conduct feature engineering to transform the various types of provided text information into 97 features. Second, we train classification and ranking models using these features. Last, we combine our individual models to boost the performance by using results on the internal validation set and the official Valid set. Some effective post-processing techniques have also been proposed. Our solution achieves 0.98259 MAP score and ranks the first place on the private leaderboard of the Test set.",
+    "authors": [
+        "Chun-Liang Li",
+        "Yu-Chuan Su",
+        "Ting-Wei Lin",
+        "Cheng-Hao Tsai",
+        "Wei-Cheng Chang",
+        "Kuan-Hao Huang",
+        "Tzu-Ming Kuo",
+        "Shan-Wei Lin",
+        "Young-San Lin",
+        "Yu-Chen Lu",
+        "Chun-Pai Yang",
+        "Cheng-Xia Chang",
+        "Wei-Sheng Chin",
+        "Yu-Chin Juan",
+        "Hsiao-Yu Tung",
+        "Jui-Pin Wang",
+        "Cheng-Kuang Wei",
+        "Felix Wu",
+        "Tu-Chun Yin",
+        "Tong Yu",
+        "Yong Zhuang",
+        "Shou-de Lin",
+        "Hsuan-Tien Lin",
+        "Chih-Jen Lin"
+    ],
+    "id": "li15b",
+    "issue": 91,
+    "pages": [
+        2921,
+        2947
+    ],
+    "title": "Combination of Feature Engineering and Ranking Models for Paper-Author Identification in KDD Cup 2013",
+    "volume": 16,
+    "year": 2015
+}

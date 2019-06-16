@@ -1,0 +1,19 @@
+{
+    "abstract": "This paper proposes a novel multi-layered gesture recognition method with Kinect. We explore the essential linguistic characters of gestures: the components concurrent character and the sequential organization character, in a multi-layered framework, which extracts features from both the segmented semantic units and the whole gesture sequence and then sequentially classifies the motion, location and shape components. In the first layer, an improved principle motion is applied to model the motion component. In the second layer, a particle-based descriptor and a weighted dynamic time warping are proposed for the location component classification. In the last layer, the spatial path warping is further proposed to classify the shape component represented by unclosed shape context. The proposed method can obtain relatively high performance for one-shot learning gesture recognition on the ChaLearn Gesture Dataset comprising more than 50, 000 gesture sequences recorded with Kinect.",
+    "authors": [
+        "Feng Jiang",
+        "Shengping Zhang",
+        "Shen Wu",
+        "Yang Gao",
+        "Debin Zhao"
+    ],
+    "id": "jiang15a",
+    "issue": 7,
+    "pages": [
+        227,
+        254
+    ],
+    "title": "Multi-layered Gesture Recognition with Kinect",
+    "volume": 16,
+    "year": 2015
+}

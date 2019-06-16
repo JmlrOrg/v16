@@ -1,0 +1,16 @@
+{
+    "abstract": "This paper presents direct settings and rigorous solutions of the main Statistical Inference problems. It shows that rigorous solutions require solving multidimensional Fredholm integral equations of the first kind in the situation where not only the right-hand side of the equation is an approximation, but the operator in the equation is also defined approximately. Using Stefanuyk-Vapnik theory for solving such ill-posed operator equations, constructive methods of empirical inference are introduced. These methods are based on a new concept called $V$-matrix. This matrix captures geometric properties of the observation data that are ignored by classical statistical methods.",
+    "authors": [
+        "Vladimir Vapnik",
+        "Rauf Izmailov"
+    ],
+    "id": "vapnik15a",
+    "issue": 50,
+    "pages": [
+        1683,
+        1730
+    ],
+    "title": "V-Matrix Method of Solving Statistical Inference Problems",
+    "volume": 16,
+    "year": 2015
+}

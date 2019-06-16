@@ -1,0 +1,18 @@
+{
+    "abstract": "This paper describes an R package named flare, which implements a family of new high dimensional regression methods (LAD Lasso, SQRT Lasso, $\\ell_q$ Lasso, and Dantzig selector) and their extensions to sparse precision matrix estimation (TIGER and CLIME). These methods exploit different nonsmooth loss functions to gain modeling flexibility, estimation robustness, and tuning insensitiveness. The developed solver is based on the alternating direction method of multipliers (ADMM). The package flare is coded in double precision C, and called from R by a user-friendly interface. The memory usage is optimized by using the sparse matrix output. The experiments show that flare is efficient and can scale up to large problems.",
+    "authors": [
+        "Xingguo Li",
+        "Tuo Zhao",
+        "Xiaoming Yuan",
+        "Han Liu"
+    ],
+    "id": "li15a",
+    "issue": 17,
+    "pages": [
+        553,
+        557
+    ],
+    "title": "The flare Package for High Dimensional Linear Regression and Precision Matrix Estimation in R",
+    "volume": 16,
+    "year": 2015
+}

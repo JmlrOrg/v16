@@ -1,0 +1,17 @@
+{
+    "abstract": "Spectral learning algorithms have recently become popular in data-rich domains, driven in part by recent advances in large scale randomized SVD, and in spectral estimation of Hidden Markov Models. Extensions of these methods lead to statistical estimation algorithms which are not only fast, scalable, and useful on real data sets, but are also provably correct. Following this line of research, we propose four fast and scalable spectral algorithms for learning word embeddings -- low dimensional real vectors (called <i>Eigenwords</i>) that capture the \"meaning\" of words from their context. All the proposed algorithms harness the multi-view nature of text data i.e. the left and right context of each word, are fast to train and have strong theoretical properties. Some of the variants also have lower sample complexity and hence higher statistical power for rare words. We provide theory which establishes relationships between these algorithms and optimality criteria for the estimates they provide. We also perform thorough qualitative and quantitative evaluation of <i>Eigenwords</i> showing that simple linear approaches give performance comparable to or superior than the state-of-the-art non-linear deep learning based methods.",
+    "authors": [
+        "Paramveer S. Dhillon",
+        "Dean P.  Foster",
+        "Lyle H. Ungar"
+    ],
+    "id": "dhillon15a",
+    "issue": 94,
+    "pages": [
+        3035,
+        3078
+    ],
+    "title": "Eigenwords: Spectral Word Embeddings",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "Capturing predictor-dependent correlations amongst the elements of a multivariate response vector is fundamental to numerous applied domains, including neuroscience, epidemiology, and finance. Although there is a rich literature on methods for allowing the variance in a univariate regression model to vary with predictors, relatively little has been done in the multivariate case. As a motivating example, we consider the Google Flu Trends data set, which provides indirect measurements of influenza incidence at a large set of locations over time (our predictor). To accurately characterize temporally evolving influenza incidence across regions, it is important to develop statistical methods for a time-varying covariance matrix. Importantly, the locations provide a redundant set of measurements and do not yield a sparse nor static spatial dependence structure. We propose to reduce dimensionality and induce a flexible Bayesian nonparametric covariance regression model by relating these location-specific trajectories to a lower-dimensional subspace through a latent factor model with predictor-dependent factor loadings. These loadings are in terms of a collection of basis functions that vary nonparametrically over the predictor space. Such low-rank approximations are in contrast to sparse precision assumptions, and are appropriate in a wide range of applications. Our formulation aims to address three challenges: scaling to large $p$ domains, coping with missing values, and allowing an irregular grid of observations. The model is shown to be highly flexible, while leading to a computationally feasible implementation via Gibbs sampling. The ability to scale to large $p$ domains and cope with missing values is fundamental in analyzing the Google Flu Trends data.",
+    "authors": [
+        "Emily B. Fox",
+        "David B. Dunson"
+    ],
+    "id": "fox15a",
+    "issue": 76,
+    "pages": [
+        2501,
+        2542
+    ],
+    "title": "Bayesian Nonparametric Covariance Regression",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,20 @@
+{
+    "abstract": "In this paper we explore maximal deviations of large random structures from their typical behavior. We introduce a model for a high-dimensional random graph process and ask analogous questions to those of Vapnik and Chervonenkis for deviations of averages: how \"rich\" does the process have to be so that one sees atypical behavior. In particular, we study a natural process of Erd\u00c5\u0091s-R\u00c3\u00a9nyi random graphs indexed by unit vectors in $\\R^d$. We investigate the deviations of the process with respect to three fundamental properties: clique number, chromatic number, and connectivity. In all cases we establish upper and lower bounds for the minimal dimension $d$ that guarantees the existence of \"exceptional directions\" in which the random graph behaves atypically with respect to the property. For each of the three properties, four theorems are established, to describe upper and lower bounds for the threshold dimension in the subcritical and supercritical regimes.",
+    "authors": [
+        "Louigi Addario-Berry",
+        "Shankar Bhamidi",
+        "S{{\\'e}}bastien Bubeck",
+        "Luc Devroye",
+        "G{{\\'a}}bor Lugosi",
+        "Roberto Imbuzeiro Oliveira"
+    ],
+    "id": "addarioberry15a",
+    "issue": 56,
+    "pages": [
+        1893,
+        1922
+    ],
+    "title": "Exceptional Rotations of Random Graphs: A VC Theory",
+    "volume": 16,
+    "year": 2015
+}

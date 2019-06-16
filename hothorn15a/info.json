@@ -1,0 +1,16 @@
+{
+    "abstract": "The R package partykit provides a flexible toolkit for learning, representing, summarizing, and visualizing a wide range of tree- structured regression and classification models. The functionality encompasses: (a) basic infrastructure for <i>representing</i> trees (inferred by any algorithm) so that unified <code>print</code>/<code>plot</code>/<code>predict</code>  methods are available; (b) dedicated methods for trees with <i>constant fits</i> in the leaves (or terminal nodes) along with suitable coercion functions to create such trees (e.g., by rpart, RWeka, PMML); (c) a reimplementation of <i>conditional inference trees</i> (<code>ctree</code>, originally provided in the party package); (d) an extended reimplementation of <i>model-based recursive     partitioning</i> (<code>mob</code>, also originally in party) along with dedicated methods for trees with parametric models in the leaves. Here, a brief overview of the package and its design is given while more detailed discussions of items (a)\u2014(d) are available in vignettes accompanying the package.",
+    "authors": [
+        "Torsten Hothorn",
+        "Achim Zeileis"
+    ],
+    "id": "hothorn15a",
+    "issue": 117,
+    "pages": [
+        3905,
+        3909
+    ],
+    "title": "partykit: A Modular Toolkit for Recursive Partytioning in R",
+    "volume": 16,
+    "year": 2015
+}

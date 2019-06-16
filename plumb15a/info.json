@@ -1,0 +1,18 @@
+{
+    "abstract": "$\\mathbb{S}_n$FFT is an easy to use software library written in the Julia language to facilitate Fourier analysis on the symmetric group (set of permutations) of degree $n$, denoted $\\mathbb{S}_n$ and make it more easily deployable within statistical machine learning algorithms. Our implementation internally creates the irreducible matrix representations of $\\mathbb{S}_n$, and efficiently computes fast Fourier transforms (FFTs) and inverse fast Fourier transforms (iFFTs). Advanced users can achieve scalability and promising practical performance by exploiting various other forms of sparsity. Further, the library also supports the partial inverse Fourier transforms which utilizes the smoothness properties of functions by maintaining only the first few Fourier coefficients. Out of the box, $\\mathbb{S}_n$FFT currently offers two non-trivial operations for functions defined on $\\mathbb{S}_n$, namely <i>convolution</i> and <i>correlation</i>. While the potential applicability of $\\mathbb{S}_n$FFT is fairly broad, as an example, we show how it can be used for clustering ranked data, where each ranking is modeled as a distribution on $\\mathbb{S}_n$.",
+    "authors": [
+        "Gregory Plumb",
+        "Deepti Pachauri",
+        "Risi Kondor",
+        "Vikas Singh"
+    ],
+    "id": "plumb15a",
+    "issue": 106,
+    "pages": [
+        3469,
+        3473
+    ],
+    "title": "SnFFT: A Julia Toolkit for Fourier Analysis of Functions over Permutations",
+    "volume": 16,
+    "year": 2015
+}

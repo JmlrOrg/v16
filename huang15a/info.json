@@ -1,0 +1,19 @@
+{
+    "abstract": "We introduce an online tensor decomposition based approach for two latent variable modeling problems namely, (1) community detection, in which we learn the latent communities that the social actors in social networks belong to, and (2) topic modeling, in which we infer hidden topics of text articles. We consider decomposition of moment tensors using stochastic gradient descent. We conduct optimization of multilinear operations in SGD and avoid directly forming the tensors, to save computational and storage costs. We present optimized algorithm in two platforms. Our GPU-based implementation exploits the parallelism of SIMD architectures to allow for maximum speed-up by a careful optimization of storage and data transfer, whereas our CPU-based implementation uses efficient sparse matrix computations and is suitable for large sparse data sets. For the community detection problem, we demonstrate accuracy and computational efficiency on Facebook, Yelp and DBLP data sets, and for the topic modeling problem, we also demonstrate good performance on the New York Times data set. We compare our results to the state-of-the-art algorithms such as the variational method, and report a gain of accuracy and a gain of several orders of magnitude in the execution time.",
+    "authors": [
+        "Furong Huang",
+        "U. N. Niranjan",
+        "Mohammad Umar Hakeem",
+        "Animashree An",
+        "kumar"
+    ],
+    "id": "huang15a",
+    "issue": 85,
+    "pages": [
+        2797,
+        2835
+    ],
+    "title": "Online Tensor Methods for Learning Latent Variable Models",
+    "volume": 16,
+    "year": 2015
+}

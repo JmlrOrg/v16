@@ -1,0 +1,20 @@
+{
+    "abstract": "Parallel Graphics Processing Unit (GPU) implementations of GP have appeared in the literature using three main methodologies: (i) <i>compilation</i>, which generates the individuals in GPU code and requires compilation; (ii) <i>pseudo-assembly</i>, which generates the individuals in an intermediary assembly code and also requires compilation; and (iii) <i>interpretation</i>, which interprets the codes. This paper proposes a new methodology that uses the concepts of quantum computing and directly handles the GPU machine code instructions. Our methodology utilizes a probabilistic representation of an individual to improve the global search capability. In addition, the evolution in machine code eliminates both the overhead of compiling the code and the cost of parsing the program during evaluation. We obtained up to 2.74 trillion GP operations per second for the 20-bit Boolean Multiplexer benchmark. We also compared our approach with the other three GPU-based acceleration methodologies implemented for quantum-inspired linear GP. Significant gains in performance were obtained.",
+    "authors": [
+        "Cleomar Pereira da Silva",
+        "Douglas Mota Dias",
+        "Cristiana Bentes",
+        "Marco Aur\\'{e}lio Cavalcanti Pacheco",
+        "Le",
+        "ro Fontoura Cupertino"
+    ],
+    "id": "dasilva15a",
+    "issue": 21,
+    "pages": [
+        673,
+        712
+    ],
+    "title": "Evolving GPU Machine Code",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,16 @@
+{
+    "abstract": "According to a recently stated 'independence postulate', the distribution $P_{\\rm cause}$ contains no information about the conditional $P_{\\rm effect | cause}$ while $P_{\\rm effect}$ may contain information about $P_{\\rm cause | effect}$. Since semi- supervised learning (SSL) attempts to exploit information from $P_X$ to assist in predicting $Y$ from $X$, it should only work in anticausal direction, i.e., when $Y$ is the cause and $X$ is the effect. In causal direction, when $X$ is the cause and $Y$ the effect, unlabelled $x$-values should be useless. To shed light on this asymmetry, we study a deterministic causal relation $Y=f(X)$ as recently assayed in Information-Geometric Causal Inference (IGCI). Within this model, we discuss two options to formalize the independence of $P_X$ and $f$ as an orthogonality of vectors in appropriate inner product spaces. We prove that unlabelled data help for the problem of interpolating a monotonically increasing function if and only if the orthogonality conditions are violated -- which we only expect for the anticausal direction. Here, performance of SSL and its supervised baseline analogue is measured in terms of two different loss functions: first, the mean squared error and second the surprise in a Bayesian prediction scenario.",
+    "authors": [
+        "Dominik Janzing",
+        "Bernhard Sch{{\\\"o}}lkopf"
+    ],
+    "id": "janzing15a",
+    "issue": 57,
+    "pages": [
+        1923,
+        1948
+    ],
+    "title": "Semi-Supervised Interpolation in an Anticausal Learning Scenario",
+    "volume": 16,
+    "year": 2015
+}

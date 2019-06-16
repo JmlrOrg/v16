@@ -1,0 +1,19 @@
+{
+    "abstract": "In a simulator-defined MDP, the Markovian dynamics and rewards are provided in the form of a simulator from which samples can be drawn. This paper studies MDP planning algorithms that attempt to minimize the number of simulator calls before terminating and outputting a policy that is approximately optimal with high probability. The paper introduces two heuristics for efficient exploration and an improved confidence interval that enables earlier termination with probabilistic guarantees. We prove that the heuristics and the confidence interval are sound and produce with high probability an approximately optimal policy in polynomial time. Experiments on two benchmark problems and two instances of an invasive species management problem show that the improved confidence intervals and the new search heuristics yield reductions of between 8% and 47% in the number of simulator calls required to reach near- optimal policies.",
+    "authors": [
+        "Majid Alkaee Taleghan",
+        "Thomas G. Dietterich",
+        "Mark Crowley",
+        "Kim Hall",
+        "H. Jo Albers"
+    ],
+    "id": "taleghan15a",
+    "issue": 116,
+    "pages": [
+        3877,
+        3903
+    ],
+    "title": "PAC Optimal MDP Planning with Application to Invasive Species Management",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,19 @@
+{
+    "abstract": "Within the statistical learning framework, this paper studies the regression model associated with the correntropy induced losses. The correntropy, as a similarity measure, has been frequently employed in signal processing and pattern recognition. Motivated by its empirical successes, this paper aims at presenting some theoretical understanding towards the maximum correntropy criterion in regression problems. Our focus in this paper is two-fold: first, we are concerned with the connections between the regression model associated with the correntropy induced loss and the least squares regression model. Second, we study its convergence property. A learning theory analysis which is centered around the above two aspects is conducted. From our analysis, we see that the scale parameter in the loss function balances the convergence rates of the regression model and its robustness. We then make some efforts to sketch a general view on robust loss functions when being applied into the learning for regression problems. Numerical experiments are also implemented to verify the effectiveness of the model.",
+    "authors": [
+        "Yunlong Feng",
+        "Xiaolin Huang",
+        "Lei Shi",
+        "Yuning Yang",
+        "Johan A.K. Suykens"
+    ],
+    "id": "feng15a",
+    "issue": 29,
+    "pages": [
+        993,
+        1034
+    ],
+    "title": "Learning with the Maximum Correntropy Criterion Induced Losses for Regression",
+    "volume": 16,
+    "year": 2015
+}

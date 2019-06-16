@@ -1,0 +1,16 @@
+{
+    "abstract": "In this paper we provide theoretical support for the so-called \"Sigmoidal Gaussian Cox Process\" approach to learning the intensity of an inhomogeneous Poisson process on a $d$-dimensional domain. This method was proposed by Adams, Murray and MacKay (ICML, 2009), who developed a tractable computational approach and showed in simulation and real data experiments that it can work quite satisfactorily. The results presented in the present paper provide theoretical underpinning of the method. In particular, we show how to tune the priors on the hyper parameters of the model in order for the procedure to automatically adapt to the degree of smoothness of the unknown intensity, and to achieve optimal convergence rates.",
+    "authors": [
+        "Alisa Kirichenko",
+        "Harry van Zanten"
+    ],
+    "id": "kirichenko15a",
+    "issue": 90,
+    "pages": [
+        2909,
+        2919
+    ],
+    "title": "Optimality of Poisson Processes Intensity Learning with Gaussian Processes",
+    "volume": 16,
+    "year": 2015
+}

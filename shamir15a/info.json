@@ -1,0 +1,15 @@
+{
+    "abstract": "We provide a tight sample complexity bound for learning bounded- norm linear predictors with respect to the squared loss. Our focus is on an agnostic PAC-style setting, where no assumptions are made on the data distribution beyond boundedness. This contrasts with existing results in the literature, which rely on other distributional assumptions, refer to specific parameter settings, or use other performance measures.",
+    "authors": [
+        "Ohad Shamir"
+    ],
+    "id": "shamir15a",
+    "issue": 107,
+    "pages": [
+        3475,
+        3486
+    ],
+    "title": "The Sample Complexity of Learning Linear Predictors with the Squared Loss",
+    "volume": 16,
+    "year": 2015
+}

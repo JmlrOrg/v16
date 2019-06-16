@@ -1,0 +1,16 @@
+{
+    "abstract": "A relaxed randomized Kaczmarz algorithm is investigated in a least squares regression setting by a learning theory approach. When the sampling values are accurate and the regression function (conditional means) is linear, such an algorithm has been well studied in the community of non-uniform sampling. In this paper, we are mainly interested in the different case of either noisy random measurements or a nonlinear regression function. In this case, we show that relaxation is needed. A necessary and sufficient condition on the sequence of relaxation parameters or step sizes for the convergence of the algorithm in expectation is presented. Moreover, polynomial rates of convergence, both in expectation and in probability, are provided explicitly. As a result, the almost sure convergence of the algorithm is proved by applying the Borel-Cantelli Lemma.",
+    "authors": [
+        "Junhong Lin",
+        "Ding-Xuan Zhou"
+    ],
+    "id": "lin15a",
+    "issue": 102,
+    "pages": [
+        3341,
+        3365
+    ],
+    "title": "Learning Theory of Randomized Kaczmarz Algorithm",
+    "volume": 16,
+    "year": 2015
+}

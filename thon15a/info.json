@@ -1,0 +1,16 @@
+{
+    "abstract": " <p>Stochastic multiplicity automata (SMA) are weighted finite automata that generalize probabilistic automata. They have been used in the context of probabilistic grammatical inference. Observable operator models (OOMs) are a generalization of hidden Markov models, which in turn are models for discrete-valued stochastic processes and are used ubiquitously in the context of speech recognition and bio-sequence modeling. Predictive state representations (PSRs) extend OOMs to stochastic input-output systems and are employed in the context of agent modeling and planning.</p> <p>We present SMA, OOMs, and PSRs under the common framework of sequential systems, which are an algebraic characterization of multiplicity automata, and examine the precise relationships between them. Furthermore, we establish a unified approach to learning such models from data. Many of the learning algorithms that have been proposed can be understood as variations of this basic learning scheme, and several turn out to be closely related to each other, or even equivalent.</p>",
+    "authors": [
+        "Michael Thon",
+        "Herbert Jaeger"
+    ],
+    "id": "thon15a",
+    "issue": 3,
+    "pages": [
+        103,
+        147
+    ],
+    "title": "Links Between Multiplicity Automata, Observable Operator Models and Predictive State Representations -- a Unified Learning Framework",
+    "volume": 16,
+    "year": 2015
+}

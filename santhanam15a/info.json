@@ -1,0 +1,16 @@
+{
+    "abstract": " <p>Motivated by problems in insurance, our task is to predict finite upper bounds on a future draw from an unknown distribution $p$ over natural numbers. We can only use past observations generated independently and identically distributed according to $p$. While $p$ is unknown, it is known to belong to a given collection $\\mathcal{P}$ of probability distributions on the natural numbers.</p> <p>The support of the distributions $p \\in \\mathcal{P}$ may be unbounded, and the prediction game goes on for <i>infinitely</i> many draws. We are allowed to make observations without predicting upper bounds for some time. But we must, with probability $1$, start and then continue to predict upper bounds after a finite time irrespective of which $p \\in \\mathcal{P}$ governs the data.</p> <p>If it is possible, without knowledge of $p$ and for any prescribed confidence however close to $1$, to come up with a sequence of upper bounds that is never violated over an infinite time window with confidence at least as big as prescribed, we say the model class $\\mathcal{P}$ is <i>insurable</i>. We completely characterize the insurability of any class $\\mathcal{P}$ of distributions over natural numbers by means of a condition on how the neighborhoods of distributions in $\\mathcal{P}$ should be, one that is both necessary and sufficient.",
+    "authors": [
+        "Narayana Santhanam",
+        "Venkat Anantharam"
+    ],
+    "id": "santhanam15a",
+    "issue": 69,
+    "pages": [
+        2329,
+        2355
+    ],
+    "title": "Agnostic Insurability of Model Classes",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,17 @@
+{
+    "abstract": "In multi-response regression, pursuit of two different types of structures is essential to battle the curse of dimensionality. In this paper, we seek a sparsest decomposition representation of a parameter matrix in terms of a sum of sparse and low rank matrices, among many overcomplete decompositions. On this basis, we propose a constrained method subject to two nonconvex constraints, respectively for sparseness and low-rank properties. Computationally, obtaining an exact global optimizer is rather challenging. To overcome the difficulty, we use an alternating directions method solving a low-rank subproblem and a sparseness subproblem alternatively, where we derive an exact solution to the low-rank subproblem, as well as an exact solution in a special case and an approximated solution generally through a surrogate of the $L_0$-constraint and difference convex programming, for the sparse subproblem. Theoretically, we establish convergence rates of a global minimizer in the Hellinger-distance, providing an insight into why pursuit of two different types of decomposed structures is expected to deliver higher estimation accuracy than its counterparts based on either sparseness alone or low-rank approximation alone. Numerical examples are given to illustrate these aspects, in addition to an application to facial imagine recognition and multiple time series analysis.",
+    "authors": [
+        "Qi Yan",
+        "Jieping Ye",
+        "Xiaotong Shen"
+    ],
+    "id": "yan15a",
+    "issue": 1,
+    "pages": [
+        47,
+        75
+    ],
+    "title": "Simultaneous Pursuit of Sparseness and Rank Structures for Matrix Decomposition",
+    "volume": 16,
+    "year": 2015
+}

@@ -1,0 +1,18 @@
+{
+    "abstract": "We study the sample complexity of multiclass prediction in several learning settings. For the PAC setting our analysis reveals a surprising phenomenon: In sharp contrast to binary classification, we show that there exist multiclass hypothesis classes for which some Empirical Risk Minimizers (ERM learners) have lower sample complexity than others. Furthermore, there are classes that are learnable by some ERM learners, while other ERM learners will fail to learn them. We propose a principle for designing good ERM learners, and use this principle to prove tight bounds on the sample complexity of learning <i>symmetric</i> multiclass hypothesis classes---classes that are invariant under permutations of label names. We further provide a characterization of mistake and regret bounds for multiclass learning in the online setting and the bandit setting, using new generalizations of Littlestone's dimension.",
+    "authors": [
+        "Amit Daniely",
+        "Sivan Sabato",
+        "Shai Ben-David",
+        "Shai Shalev-Shwartz"
+    ],
+    "id": "daniely15a",
+    "issue": 71,
+    "pages": [
+        2377,
+        2404
+    ],
+    "title": "Multiclass Learnability and the ERM Principle",
+    "volume": 16,
+    "year": 2015
+}

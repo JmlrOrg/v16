@@ -1,0 +1,19 @@
+{
+    "abstract": "This paper addresses the problem of inferring a regular expression from a given set of strings that resembles, as closely as possible, the regular expression that a human expert would have written to identify the language. This is motivated by our goal of automating the task of postmasters who use regular expressions to describe and blacklist email spam campaigns. Training data contains batches of messages and corresponding regular expressions that an expert postmaster feels confident to blacklist. We model this task as a two-stage learning problem with structured output spaces and appropriate loss functions. We derive decoders and the resulting optimization problems which can be solved using standard cutting plane methods. We report on a case study conducted with an email service provider.",
+    "authors": [
+        "Paul Prasse",
+        "Christoph Sawade",
+        "Niels L",
+        "wehr",
+        "Tobias Scheffer"
+    ],
+    "id": "prasse15a",
+    "issue": 111,
+    "pages": [
+        3687,
+        3720
+    ],
+    "title": "Learning to Identify Concise Regular Expressions that Describe Email Campaigns",
+    "volume": 16,
+    "year": 2015
+}

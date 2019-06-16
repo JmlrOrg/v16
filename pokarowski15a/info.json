@@ -1,0 +1,16 @@
+{
+    "abstract": "We introduce a computationally effective algorithm for a linear model selection consisting of three steps: screening--ordering-- selection (SOS). Screening of predictors is based on the thresholded Lasso that is $\\ell_1$ penalized least squares. The screened predictors are then fitted using least squares (LS) and ordered with respect to their $|t|$ statistics. Finally, a model is selected using greedy generalized information criterion (GIC) that is $\\ell_0$ penalized LS in a nested family induced by the ordering. We give non-asymptotic upper bounds on error probability of each step of the SOS algorithm in terms of both penalties. Then we obtain selection consistency for different ($n$, $p$) scenarios under conditions which are needed for screening consistency of the Lasso. Our error bounds and numerical experiments show that SOS is worth considering alternative for multi-stage convex relaxation, the latest quasiconvex penalized LS. For the traditional setting ($n &gt;p$) we give Sanov-type bounds on the error probabilities of the ordering--selection algorithm. It is surprising consequence of our bounds that the selection error of greedy GIC is asymptotically not larger than of exhaustive GIC.",
+    "authors": [
+        "Piotr Pokarowski",
+        "Jan Mielniczuk"
+    ],
+    "id": "pokarowski15a",
+    "issue": 28,
+    "pages": [
+        961,
+        992
+    ],
+    "title": "Combined l1 and Greedy l0 Penalized Least Squares for Linear Model Selection",
+    "volume": 16,
+    "year": 2015
+}

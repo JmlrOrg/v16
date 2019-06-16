@@ -1,0 +1,16 @@
+{
+    "abstract": "The Libra Toolkit is a collection of algorithms for learning and inference with discrete probabilistic models, including Bayesian networks, Markov networks, dependency networks, and sum-product networks. Compared to other toolkits, Libra places a greater emphasis on learning the structure of tractable models in which exact inference is efficient. It also includes a variety of algorithms for learning graphical models in which inference is potentially intractable, and for performing exact and approximate inference. Libra is released under a 2-clause BSD license to encourage broad use in academia and industry.",
+    "authors": [
+        "Daniel Lowd",
+        "Amirmohammad Rooshenas"
+    ],
+    "id": "lowd15a",
+    "issue": 74,
+    "pages": [
+        2459,
+        2463
+    ],
+    "title": "The Libra Toolkit for Probabilistic Models",
+    "volume": 16,
+    "year": 2015
+}

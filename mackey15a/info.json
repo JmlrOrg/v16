@@ -1,0 +1,17 @@
+{
+    "abstract": "If learning methods are to scale to the massive sizes of modern data sets, it is essential for the field of machine learning to embrace parallel and distributed computing. Inspired by the recent development of matrix factorization methods with rich theory but poor computational complexity and by the relative ease of mapping matrices onto distributed architectures, we introduce a scalable divide-and-conquer framework for noisy matrix factorization. We present a thorough theoretical analysis of this framework in which we characterize the statistical errors introduced by the \"divide\" step and control their magnitude in the \"conquer\" step, so that the overall algorithm enjoys high-probability estimation guarantees comparable to those of its base algorithm. We also present experiments in collaborative filtering and video background modeling that demonstrate the near-linear to superlinear speed-ups attainable with this approach.",
+    "authors": [
+        "Lester Mackey",
+        "Ameet Talwalkar",
+        "Michael I. Jordan"
+    ],
+    "id": "mackey15a",
+    "issue": 27,
+    "pages": [
+        913,
+        960
+    ],
+    "title": "Distributed Matrix Completion and Robust Factorization",
+    "volume": 16,
+    "year": 2015
+}

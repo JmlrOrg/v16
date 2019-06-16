@@ -1,0 +1,18 @@
+{
+    "abstract": "Matrix completion, i.e., the exact and provable recovery of a low-rank matrix from a small subset of its elements, is currently only known to be possible if the matrix satisfies a restrictive structural constraint---known as <i>incoherence</i>---on its row and column spaces. In these cases, the subset of elements is assumed to be sampled uniformly at random. In this paper, we show that <b>any</b> rank-$ r $ $ n$-by-$ n $ matrix can be exactly recovered from as few as $O(nr \\log^2 n)$ randomly chosen elements, provided this random choice is made according to a <i>specific biased distribution</i> suitably dependent on the coherence structure of the matrix: the probability of any element being sampled should be at least a constant times the sum of the leverage scores of the corresponding row and column. Moreover, we prove that this specific form of sampling is nearly necessary, in a natural precise sense; this implies that many other perhaps more intuitive sampling schemes fail. We further establish three ways to use the above result for the setting when leverage scores are not known <i>a priori</i>. (a) We describe a provably-correct sampling strategy for the case when only the column space is incoherent and no assumption or knowledge of the row space is required. (b) We propose a two-phase sampling procedure for general matrices that first samples to estimate leverage scores followed by sampling for exact recovery. These two approaches assume control over the sampling procedure. (c) By using our main theorem in a reverse direction, we provide an analysis showing the advantages of the (empirically successful) weighted nuclear/trace-norm minimization approach over the vanilla un- weighted formulation given non-uniformly distributed observed elements. This approach does not require controlled sampling or knowledge of the leverage scores.",
+    "authors": [
+        "Yudong Chen",
+        "Srinadh Bhojanapalli",
+        "Sujay Sanghavi",
+        "Rachel Ward"
+    ],
+    "id": "chen15b",
+    "issue": 93,
+    "pages": [
+        2999,
+        3034
+    ],
+    "title": "Completing Any Low-rank Matrix, Provably",
+    "volume": 16,
+    "year": 2015
+}

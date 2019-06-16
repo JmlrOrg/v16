@@ -1,0 +1,17 @@
+{
+    "abstract": "We propose some axioms for hierarchical clustering of probability measures and investigate their ramifications. The basic idea is to let the user stipulate the clusters for some elementary measures. This is done without the need of any notion of metric, similarity or dissimilarity. Our main results then show that for each suitable choice of user-defined clustering on elementary measures we obtain a unique notion of clustering on a large set of distributions satisfying a set of additivity and continuity axioms. We illustrate the developed theory by numerous examples including some with and some without a density.",
+    "authors": [
+        "Philipp Thomann",
+        "Ingo Steinwart",
+        "Nico Schmid"
+    ],
+    "id": "thomann15a",
+    "issue": 58,
+    "pages": [
+        1949,
+        2002
+    ],
+    "title": "Towards an Axiomatic Approach to Hierarchical Clustering of Measures",
+    "volume": 16,
+    "year": 2015
+}
