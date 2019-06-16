@@ -12,5 +12,9 @@
     ],
     "title": "SAMOA: Scalable Advanced Massive Online Analysis",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "extra_links": [
+      ["code", "http://samoa.incubator.apache.org"]
+    ],
+    "special_issue": "MLOSS"
 }

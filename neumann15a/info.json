@@ -14,5 +14,9 @@
     ],
     "title": "pyGPs -- A Python Library for Gaussian Process Regression and Classification",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "extra_links": [
+      ["code", "https://github.com/PMBio/pygp"]
+    ],
+    "special_issue": "MLOSS"
 }

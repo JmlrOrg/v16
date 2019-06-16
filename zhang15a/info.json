@@ -14,5 +14,9 @@
     ],
     "title": "CEKA: A Tool for Mining the Wisdom of Crowds",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "extra_links": [
+      ["code", "http://ceka.sourceforge.net"]
+    ],
+    "special_issue": "MLOSS"
 }
