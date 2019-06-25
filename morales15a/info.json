@@ -4,17 +4,20 @@
         "Gianmarco De Francisci Morales",
         "Albert Bifet"
     ],
+    "extra_links": [
+        [
+            "code",
+            "http://jclec.sourceforge.net"
+        ]
+    ],
     "id": "morales15a",
-    "issue": 4,
+    "issue": 5,
     "pages": [
         149,
         153
     ],
+    "special_issue": "MLOSS",
     "title": "SAMOA: Scalable Advanced Massive Online Analysis",
     "volume": 16,
-    "year": 2015,
-    "extra_links": [
-      ["code", "http://samoa.incubator.apache.org"]
-    ],
-    "special_issue": "MLOSS"
+    "year": 2015
 }

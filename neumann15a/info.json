@@ -6,17 +6,20 @@
         "Daniel E. Marthaler",
         "Kristian Kersting"
     ],
+    "extra_links": [
+        [
+            "code",
+            "https://github.com/PMBio/pygp"
+        ]
+    ],
     "id": "neumann15a",
-    "issue": 79,
+    "issue": 80,
     "pages": [
         2611,
         2616
     ],
+    "special_issue": "MLOSS",
     "title": "pyGPs -- A Python Library for Gaussian Process Regression and Classification",
     "volume": 16,
-    "year": 2015,
-    "extra_links": [
-      ["code", "https://github.com/PMBio/pygp"]
-    ],
-    "special_issue": "MLOSS"
+    "year": 2015
 }

@@ -6,12 +6,23 @@
         "Xiaoming Yuan",
         "Han Liu"
     ],
+    "extra_links": [
+        [
+            "code",
+            "http://cran.r-project.org/src/contrib/flare_1.5.0.tar.gz"
+        ],
+        [
+            "webpage",
+            "http://cran.r-project.org/web/packages/flare/index.html"
+        ]
+    ],
     "id": "li15a",
-    "issue": 17,
+    "issue": 18,
     "pages": [
         553,
         557
     ],
+    "special_issue": "MLOSS",
     "title": "The flare Package for High Dimensional Linear Regression and Precision Matrix Estimation in R",
     "volume": 16,
     "year": 2015

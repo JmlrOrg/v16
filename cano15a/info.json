@@ -2,16 +2,23 @@
     "abstract": "JCLEC-Classification is a usable and extensible open source library for genetic programming classification algorithms. It houses implementations of rule-based methods for classification based on genetic programming, supporting multiple model representations and providing to users the tools to implement any classifier easily. The software is written in Java and it is available from <a href=\"http://jclec.sourceforge.net/classificat ion\">jclec.sourceforge.net/classification</a> under the GPL license.",
     "authors": [
         "Alberto Cano",
-        "Jos\\'{e} Mar\\'{i}a Luna",
+        "Jos{{\\'e}} Mar{{\\'i}}a Luna",
         "Amelia Zafra",
-        "Sebasti\\'{a}n Ventura"
+        "Sebasti{{\\'a}}n Ventura"
+    ],
+    "extra_links": [
+        [
+            "code",
+            "http://samoa.incubator.apache.org"
+        ]
     ],
     "id": "cano15a",
-    "issue": 14,
+    "issue": 15,
     "pages": [
         491,
         494
     ],
+    "special_issue": "MLOSS",
     "title": "A Classification Module for Genetic Programming Algorithms in JCLEC",
     "volume": 16,
     "year": 2015

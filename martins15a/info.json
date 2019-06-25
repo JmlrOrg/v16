@@ -1,14 +1,14 @@
 {
     "abstract": "We present AD$^3$, a new algorithm for approximate <i>maximum a posteriori</i> (MAP) inference on factor graphs, based on the alternating directions method of multipliers. Like other dual decomposition algorithms, AD$^3$ has a modular architecture, where local subproblems are solved independently, and their solutions are gathered to compute a global update. The key characteristic of AD$^3$ is that each local subproblem has a quadratic regularizer, leading to faster convergence, both theoretically and in practice. We provide closed-form solutions for these AD$^3$ subproblems for binary pairwise factors and factors imposing first-order logic constraints. For arbitrary factors (large or combinatorial), we introduce an active set method which requires only an oracle for computing a local MAP configuration, making AD$^3$ applicable to a wide range of problems. Experiments on synthetic and real-world problems show that AD$^3$ compares favorably with the state-of-the-art.",
     "authors": [
-        "Andr\\'{e} F. T. Martins",
-        "M\\'{a}rio A. T. Figueiredo",
+        "Andr{{\\'e}} F. T. Martins",
+        "M{{\\'a}}rio A. T. Figueiredo",
         "Pedro M. Q. Aguiar",
         "Noah A. Smith",
         "Eric P. Xing"
     ],
     "id": "martins15a",
-    "issue": 15,
+    "issue": 16,
     "pages": [
         495,
         545

@@ -1,12 +1,12 @@
 {
     "abstract": "In this work we address the E$\\nu$--SVM model proposed by P\u00c3\u00a9rez --Cruz et al. as an extension of the traditional $\\nu$ support vector classification model ($\\nu$--SVM). Through an enhancement of the range of admissible values for the regularization parameter $\\nu$, the E$\\nu$--SVM has been shown to be able to produce a wider variety of decision functions, giving rise to a better adaptability to the data. However, while a clear and intuitive geometric interpretation can be given for the $\\nu$--SVM model as a nearest--point problem in reduced convex hulls (RCH--NPP), no previous work has been made in developing such intuition for the E$\\nu$--SVM model. In this paper we show how E$\\nu$--SVM can be reformulated as a geometrical problem that generalizes RCH--NPP, providing new insights into this model. Under this novel point of view, we propose the rapminos algorithm, able to solve E$\\nu$--SVM more efficiently than the current methods. Furthermore, we show how rapminos is able to address the E$\\nu$--SVM model for any choice of regularization norm $\\ell_{p \\geq 1}$ seamlessly, which further extends the SVM model flexibility beyond the usual E$\\nu$--SVM models.",
     "authors": [
-        "\\'{A}lvaro Barbero",
+        "{{\\'A}}lvaro Barbero",
         "Akiko Takeda",
-        "Jorge L\\'{o}pez"
+        "Jorge L{{\\'o}}pez"
     ],
     "id": "barbero15a",
-    "issue": 10,
+    "issue": 11,
     "pages": [
         323,
         369

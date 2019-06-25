@@ -3,12 +3,19 @@
     "authors": [
         "Felix Weninger"
     ],
+    "extra_links": [
+        [
+            "code",
+            "http://sourceforge.net/projects/currennt/"
+        ]
+    ],
     "id": "weninger15a",
-    "issue": 16,
+    "issue": 17,
     "pages": [
         547,
         551
     ],
+    "special_issue": "MLOSS",
     "title": "Introducing CURRENNT: The Munich Open-Source CUDA RecurREnt Neural Network Toolkit",
     "volume": 16,
     "year": 2015

@@ -6,17 +6,20 @@
         "Bryce A. Nicholson",
         "Xindong Wu"
     ],
+    "extra_links": [
+        [
+            "code",
+            "http://ceka.sourceforge.net"
+        ]
+    ],
     "id": "zhang15a",
-    "issue": 87,
+    "issue": 88,
     "pages": [
         2853,
         2858
     ],
+    "special_issue": "MLOSS",
     "title": "CEKA: A Tool for Mining the Wisdom of Crowds",
     "volume": 16,
-    "year": 2015,
-    "extra_links": [
-      ["code", "http://ceka.sourceforge.net"]
-    ],
-    "special_issue": "MLOSS"
+    "year": 2015
 }
