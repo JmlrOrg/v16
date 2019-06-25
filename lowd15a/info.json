@@ -12,5 +12,12 @@
     ],
     "title": "The Libra Toolkit for Probabilistic Models",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "special_issue": "MLOSS",
+    "extra_links": [
+      [
+          "code",
+          "http://libra.cs.uoregon.edu"
+      ]
+  ]
 }

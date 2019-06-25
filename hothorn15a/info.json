@@ -12,5 +12,13 @@
     ],
     "title": "partykit: A Modular Toolkit for Recursive Partytioning in R",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "special_issue": "MLOSS",
+    "extra_links": [
+      [
+          "code",
+          "https://cran.r-project.org/web/packages/partykit/index.html"
+      ]
+  ]
+
 }

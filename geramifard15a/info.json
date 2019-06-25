@@ -15,5 +15,12 @@
     ],
     "title": "RLPy: A Value-Function-Based Reinforcement Learning Framework for Education and Research",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "special_issue": "MLOSS",
+    "extra_links": [
+      [
+          "code",
+          "https://github.com/rlpy/rlpy/"
+      ]
+  ]
 }

@@ -11,5 +11,16 @@
     ],
     "title": "Encog: Library of Interchangeable Machine Learning Models for Java and C#",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "special_issue": "MLOSS",
+    "extra_links": [
+      [
+          "code",
+          "http://www.heatonresearch.com/download/"
+      ],
+      [
+          "webpage",
+          "http://www.encog.org/"
+      ]
+  ]
 }

@@ -11,5 +11,8 @@
     ],
     "title": "Local Identification of Overcomplete Dictionaries",
     "volume": 16,
-    "year": 2015
+    "year": 2015,
+    "extra_links": [
+      ["erratum", "http://jmlr.org/papers/volume16/schnass15a/liod_schnass_erratum.pdf"]
+    ]
 }
