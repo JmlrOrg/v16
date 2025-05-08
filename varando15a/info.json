@@ -1,10 +1,9 @@
 {
     "abstract": "Bayesian network classifiers are a powerful machine learning tool. In order to evaluate the expressive power of these models, we compute families of polynomials that sign-represent decision functions induced by Bayesian network classifiers. We prove that those families are linear combinations of products of Lagrange basis polynomials. In absence of $V$-structures in the predictor sub-graph, we are also able to prove that this family of polynomials does indeed characterize the specific classifier considered. We then use this representation to bound the number of decision functions representable by Bayesian network classifiers with a given structure.",
     "authors": [
-        "Gherardo Var",
-        "o",
+        "Gherardo Varando",
         "Concha Bielza",
-        "Pedro Larranaga"
+        "Pedro Larrañaga"
     ],
     "id": "varando15a",
     "issue": 84,
