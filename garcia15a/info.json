@@ -1,9 +1,8 @@
 {
     "abstract": "Safe Reinforcement Learning can be defined as the process of learning policies that maximize the expectation of the return in problems in which it is important to ensure reasonable system performance and/or respect safety constraints during the learning and/or deployment processes. We categorize and analyze two approaches of Safe Reinforcement Learning. The first is based on the modification of the optimality criterion, the classic discounted finite/infinite horizon, with a safety factor. The second is based on the modification of the exploration process through the incorporation of external knowledge or the guidance of a risk metric. We use the proposed classification to survey the existing literature, as well as suggesting future directions for Safe Reinforcement Learning.",
     "authors": [
-        "Javier Garc{{\\'i}}a",
-        "Fern",
-        "o Fern{{\\'a}}ndez"
+        "Javier García",
+        "Fernando Fernández"
     ],
     "id": "garcia15a",
     "issue": 42,
